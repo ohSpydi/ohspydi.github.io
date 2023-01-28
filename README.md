@@ -1,2 +1,90 @@
-# ohspydi.github.io
-setp 2023
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Set-Up 07/23</title>
+        <style>
+            body {
+                background-image: url("backgroundkey.jpg");
+                background-size: cover;
+
+            }
+          h1 {
+            text-align: center;
+            font-size: 120px;
+            color: white;
+          }
+          p {
+            text-align: center;
+            font-size: 32px;
+            color: red;
+          }
+          ul {
+            list-style: none;
+            margin: 0;
+            padding: 15px;
+            text-align: center;
+            font-size: 24px;
+            color: white;
+          }
+          li {
+            margin: 15px 100px;
+          }
+        </style>
+      </head>
+      <body>
+        <h1>Set-Up 07/23</h1>
+        <p>This is everything there is gonna be on the Set-Up for July 2023</p>
+        <ul>
+          <li><h2><strong>Desk:</strong></h2></li>
+            <ul>
+              <li><a href="https://www.ikea.com/ca/en/p/utespelare-gaming-desk-light-gray-40507629/#content" style="color:white;">Ikea Utespelare Desk</a> - <b><span style="color:green;">$249.99 CAD</span></b></li>
+            </ul>
+          <li><h2><strong>Monitors:</strong></h2></li>
+            <ul>
+              <li><a href="https://www.amazon.ca/ASUS-Gaming-1080P-Monitor-VG277Q1A/dp/B09GP7NVHK/?_encoding=UTF8&pd_rd_w=3oGBf&content-id=amzn1.sym.c5054478-ee97-4b7b-a237-82f11e88af37&pf_rd_p=c5054478-ee97-4b7b-a237-82f11e88af37&pf_rd_r=ZWNBJAE6CCF0PCAE16HZ&pd_rd_wg=PLve3&pd_rd_r=34297998-5ecd-4099-8357-625fc3c6ca04&ref_=pd_gw_ci_mcx_mr_hp_atf_m" style="color:white;">ASUS TUF Gaming 27” 1080p 165hz</a> - <b><span style="color:green;">$269.99 CAD</span></b></li>
+              <li><a href="https://www.amazon.ca/ASUS-Gaming-1080P-Monitor-VG277Q1A/dp/B09GP7NVHK/?_encoding=UTF8&pd_rd_w=3oGBf&content-id=amzn1.sym.c5054478-ee97-4b7b-a237-82f11e88af37&pf_rd_p=c5054478-ee97-4b7b-a237-82f11e88af37&pf_rd_r=ZWNBJAE6CCF0PCAE16HZ&pd_rd_wg=PLve3&pd_rd_r=34297998-5ecd-4099-8357-625fc3c6ca04&ref_=pd_gw_ci_mcx_mr_hp_atf_m" style="color:white;">ASUS TUF Gaming 27” 1080p 165hz</a> - <b><span style="color:green;">$269.99 CAD</span></b></li>
+            </ul>
+          <li><h2><strong>Speaker:</strong></h2></li>
+            <ul>
+              <li><a href="https://www.apple.com/ca/shop/buy-homepod/homepod-mini" style="color:white;">Homepod mini</a> - <b><span style="color:green;">$129.99 CAD</span></b></li>
+            </ul>
+           <li><h2><strong>PC:</strong></h2></li>
+            <ul>
+              <li><b>Processor : </b><a href="https://www.amazon.ca/dp/B08166SLDF/?coliid=I3F6X5KQLMJ617&colid=1WG5SFH8XZ9A9&psc=0&ref_=lv_ov_lig_dp_it" style="color:white;">AMD Ryzen 5600x </a> - <b><span style="color:green;">$252.81 CAD</span></b></li>
+              <li><b>Motherboard : </b><a href="https://www.amazon.ca/gp/product/B09GP7P1XS/ref=ewc_pr_img_5?smid=A3DWYIK6Y9EEQB&psc=1" style="color:white;">ASUS ROG Strix B550-F Gaming </a> - <b><span style="color:green;">$268.98 CAD</span></b></li>
+              <li><b>Memory : </b><a href="https://www.amazon.ca/gp/product/B082DGZJ9C/ref=ewc_pr_img_4?smid=A3DWYIK6Y9EEQB&psc=1" style="color:white;">Corsair Vengeance RGB PRO 32GB (2x16GB) DDR4 </a> - <b><span style="color:green;">$154.99 CAD</span></b></li>
+              <li><b>Case : </b><a href="https://www.amazon.ca/dp/B08C788312/?coliid=II0NH7BB5EBR8&colid=1WG5SFH8XZ9A9&ref_=lv_ov_lig_dp_it&th=1" style="color:white;">Corsair ICUE 4000X Tower </a> - <b><span style="color:green;">$214.99 CAD</span></b></li>
+              <li><b>Power Supply : </b><a href="https://www.amazon.ca/gp/product/B093NGBKKD/ref=ewc_pr_img_6?smid=A3DWYIK6Y9EEQB&th=1" style="color:white;">Corsair RM650 650W 80+ Gold </a> - <b><span style="color:green;">$128.98 CAD</span></b></li>
+              <li><b>Graphics Card : </b><a href="https://www.amazon.ca/gp/product/B07R18TH1X/ref=ewc_pr_img_3?smid=A268O4Y9P1GN6Q&th=1" style="color:white;">ASUS DUAL EVO OC RTX 2060 </a> - <b><span style="color:green;">$396.11 CAD</span></b></li>
+              <li><b>Cooler : </b><a href="https://www.amazon.ca/dp/B08G1NSG7F/?coliid=I7HBXW784WTXR&colid=1WG5SFH8XZ9A9&ref_=lv_ov_lig_dp_it_im&th=1" style="color:white;">Corsair ICUE H100i Elite Capellix 75CFM Liquid Cooler </a> - <b><span style="color:green;">$204.99 CAD</span></b></li>
+              <li><b>SSD : </b><a href="https://www.amazon.ca/gp/product/B07MG119KG/ref=ewc_pr_img_2?smid=A3DWYIK6Y9EEQB&th=1" style="color:white;">Samsung 970 EVO Plus 250GB M.2 </a> - <b><span style="color:green;">$74.99 CAD</span></b></li>
+              <li><b>HDD : </b><a href="https://www.amazon.ca/dp/B07H2RR55Q/?coliid=I1IP14T9958C1G&colid=1WG5SFH8XZ9A9&psc=1&ref_=lv_ov_lig_dp_it_im" style="color:white;">Seagate Barracuda Compute 2TB </a> - <b><span style="color:green;">$69.99 CAD</span></b></li>
+              <li><b>Fans : </b><a href="https://www.amazon.ca/dp/B08XJT8T3K/?coliid=I2ARDXV313XD5Q&colid=1WG5SFH8XZ9A9&psc=1&ref_=lv_ov_lig_dp_it_im" style="color:white;">Corsair ICUE SP120 RGB Elite 47.7 CFM 120mm Fan</a> - <b><span style="color:green;">$29.99 CAD</span></b></li>
+              <li><b>Full PC : </b><a href="https://ca.pcpartpicker.com/list/ng6Chk" style="color:white;">PC Partpicker List</a></li>
+            </ul>
+            <li><h2><strong>LED Strips:</strong></h2></li>
+            <ul>
+              <li><a href="https://www.amazon.ca/dp/B0997Z6G2D/?coliid=I2NW0TDEDWHG2R&colid=2SGMKFKNPJB9B&psc=1&ref_=lv_ov_lig_dp_it" style="color:white;">Govee LED Strip 16.4 feet</a> - <b><span style="color:green;">$29.99 CAD</span></b></li>
+              <li><a href="https://www.amazon.ca/dp/B0997Z6G2D/?coliid=I2NW0TDEDWHG2R&colid=2SGMKFKNPJB9B&psc=1&ref_=lv_ov_lig_dp_it" style="color:white;">Govee LED Strip 16.4 feet</a> - <b><span style="color:green;">$29.99 CAD</span></b></li>
+              <li><a href="https://www.amazon.ca/dp/B0998L26DG/?coliid=ICW4U2ZHU1A2B&colid=2SGMKFKNPJB9B&psc=1&ref_=lv_ov_lig_dp_it" style="color:white;">Govee LED Strip 50 feet</a> - <b><span style="color:green;">$42.99 CAD</span></b></li>
+            </ul>
+            <li><h2><strong>Extra Accesories:</strong></h2></li>
+            <ul>
+              <li><a href="https://www.amazon.ca/dp/B09738CV2G/?coliid=I3DDCTLIX4H2OO&colid=2SGMKFKNPJB9B&psc=1&ref_=lv_ov_lig_dp_it" style="color:white;">Elgato Stream Deck</a> - <b><span style="color:green;">$204.99 CAD</span></b></li>
+              <li><a href="https://www.amazon.ca/dp/B08G8WH435/?coliid=I1BW6D5LW3HZP7&colid=2SGMKFKNPJB9B&psc=1&ref_=lv_ov_lig_dp_it" style="color:white;">HyperX QuadCast S Microphone</a> - <b><span style="color:green;">$158.99 CAD</span></b></li>
+              <li><a href="https://www.amazon.ca/dp/B09RD4PYRZ/?coliid=I1SKFXZD6BDUWH&colid=2SGMKFKNPJB9B&psc=1&ref_=lv_ov_lig_dp_it" style="color:white;">IXTECH Boom Arm Microphone</a> - <b><span style="color:green;">$89.99 CAD</span></b></li>
+              <li><a href="https://www.amazon.ca/gp/product/B09SHL7V5Y/ref=ewc_pr_img_1?smid=AN2DD1DQ83D84&th=1" style="color:white;">Kogonee Wooden Digital Alarm clock</a> - <b><span style="color:green;">$39.99 CAD</span></b></li>
+            </ul>
+            <li><h2><strong>Price:</strong></h2></li>
+            <ul>
+              <li><strong>Desk : </strong><b><span style="color:green;">$249.99 CAD</b></span></li>
+              <li><strong>Monitors : </strong><b><span style="color:green;">$539.98 CAD</span></b></li>
+              <li><strong>Speaker : </strong><b><span style="color:green;">$129.99 CAD</span></b></li>
+              <li><strong>PC : </strong><b><span style="color:green;">$1 796.82 CAD</span></b></li>
+              <li><strong>LEDs : </strong><b><span style="color:green;">$102.97 CAD</span></b></li>
+              <li><strong>Extra Accesories : </strong><b><span style="color:green;">$591.97 CAD</span></b></li>
+              <li><h2><strong>Total : </strong></h2><b><span style="color:green;">$3 411.72 CAD</span></b></li>
+            </ul>
+      </body>
+</html>
